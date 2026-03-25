@@ -19,7 +19,7 @@ def run(): app.run(host='0.0.0.0', port=10000)
 # --- CONFIGURATION ---
 TOKEN = os.getenv("BOT_TOKEN")
 # မင်းရဲ့ Channel Username ကို ဒီအောက်မှာ သေချာပေါက် ပြောင်းပေးပါ (ဥပမာ "@my_channel")
-CHANNEL_ID = "@YOUR_CHANNEL_USERNAME" 
+CHANNEL_ID = "@reeac-99" 
 # ---------------------
 
 LANG, AUTH, TEXT, VOICE = range(4)
