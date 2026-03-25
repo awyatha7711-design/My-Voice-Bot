@@ -20,7 +20,7 @@ def run(): app.run(host='0.0.0.0', port=10000)
 # Render Environment Variables ထဲမှာ BOT_TOKEN ကို ထည့်ထားပေးပါ
 TOKEN = os.getenv("BOT_TOKEN")
 # မင်းရဲ့ Channel နာမည်ကို ဒီအောက်မှာ အမှန်ပြင်ပါ (ဥပမာ "@mychannel")
-CHANNEL_ID = "@your_channel_username" 
+CHANNEL_ID = "@reeac_99" 
 # ---------------------
 
 LANG, AUTH, TEXT, VOICE = range(4)
